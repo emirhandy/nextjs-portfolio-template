@@ -2,7 +2,7 @@
 
 A modern, responsive portfolio website built with Next.js 14, featuring a sleek design, project showcase, and interactive elements.
 
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-Portfolio-blue)](https://portfolio-demo.vercel.app)
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-Portfolio-blue)](https://emirhan.pro)
 
 ![Portfolio Preview](public/images/readme.png)
 
